@@ -1,12 +1,12 @@
 # Site
-repository: sproogen/resume-theme
+repository: subhashvasarapu/Resume
 favicon: images/favicon.ico
 
 # Personal info
 name: Subhash Vasarapu
 title: Azure Infrastructure Engineer
 email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+website: www.github.com/subhashvasarapu/Resume
 
 darkmode: true
 
