@@ -1,10 +1,14 @@
+- layout: left 
+  company: Microsoft
+  link: https://www.microsoft.com/
+  jobs:
+  - title: Customer Engineer 2
+    dates: NOV 2018 - June 2021
+  - title: Cloud Network Engineer 2
+    dates: June 2021 - Present
 - layout: left
   company: MindTree
   link: https://www.mindtree.com/
   job_title: Senior Devops Engineer
   dates: Feb 2016 - Aug 2018
-- layout: left 
-  company: Microsoft
-  link: https://www.microsoft.com/
-  job_title: Customer Engineer 2
-  dates: NOV 2018 - till Date
+
