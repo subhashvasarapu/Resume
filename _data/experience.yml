@@ -2,10 +2,11 @@
   company: Microsoft
   link: https://www.microsoft.com/
   jobs:
-  - title: Customer Engineer 2
-    dates: NOV 2018 - June 2021
   - title: Cloud Network Engineer 2
     dates: June 2021 - Present
+  - title: Customer Engineer 2
+    dates: NOV 2018 - June 2021
+
 - layout: left
   company: MindTree
   link: https://www.mindtree.com/
